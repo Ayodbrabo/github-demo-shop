@@ -4,3 +4,8 @@
 - 3 bags of potting soil
 - 1 bag of worm castings
 - 1 bag of worm castings
+
+ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores rerum
+      repudiandae nihil saepe iusto, maxime commodi eaque odit quae,
+      reprehenderit eligendi aut sint eveniet autem quidem culpa suscipit sunt?
+      Aspernatur.
